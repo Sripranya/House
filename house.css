@@ -1,0 +1,77 @@
+.navbar{
+    height:20px;
+    text-align: right;
+    display:  inline-block;
+    
+}
+.navbar li a{
+    text-decoration: none;
+}
+.navbar li{
+    
+    display: inline-block;
+    list-style: none;
+    margin-top: 5px;
+    margin-right: 30px;
+    
+    
+    
+}
+h1{
+    font-size: 60px;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+p{
+    color: white;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: transparent;
+    border-radius: 40px;
+    border-color: aqua;
+    color: white;
+    
+}
+body{
+    background-image: url(https://thearchitecturedesigns.com/wp-content/uploads/2018/11/16-black-brick-wall-interior.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(8, 117, 48, 6.8);
+}
+
+
+
+a{
+    color: white;
+}
+li a:hover{
+    border-bottom: 2px solid rgba(8, 117, 48, 0.6);
+    color: pink;
+    text-decoration: wavy;
+
+}
+.inner {
+    color: black;
+  display: inline-block;
+  
+  margin-left: 30px;
+  margin-right: 30px;
+    
+
+    
+    
+}
+.pranya{
+    display: inline-block;
+    font-size: 50px;
+    font-weight: bold;
+    margin-right: 40px;
+    color: white;
+
+
+}
+
+
+
